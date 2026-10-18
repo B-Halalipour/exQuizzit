@@ -1,3 +1,13 @@
+# exQuizzit — Behnoud’s personal rebuild
+
+[Play the rebuilt game](https://b-halalipour.github.io/exQuizzit/) · [Rebuild source and setup](docs/)
+
+A fresh country-flag challenge with 78 bundled flags, ten-question timed rounds, optional accounts and a persistent leaderboard. Built with JavaScript, HTML, CSS, Supabase Auth and PostgreSQL. Answers and scores are verified on the server.
+
+The current deployed version is in **docs/**. The original Northcoders team source, branches and commit history remain below and in the root directories. Original team: Behnoud Halalipour, Jake Daniels, Brad Mattison and Joel Kram.
+
+## Original team project documentation
+
 # exQuizzit
 
 exQuizzit is a modern, space-themed quiz application built with [Next.js](https://nextjs.org), Supabase, and Prisma. It features animated UI, robust database integration, and a clean separation of concerns for maintainability and scalability.
